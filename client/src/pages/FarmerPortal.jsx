@@ -163,7 +163,7 @@ export default function FarmerPortal() {
                                         />
                                     </div>
                                     <div className="form-group">
-                                        <label>Quan tity (kg)</label>
+                                        <label>Quantity (kg)</label>
                                         <input
                                             className="form-input"
                                             type="number"
